@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+    <html>
+        
+    <head>
+        <title> Slide Web </title>
+        <!--
+        <link rel="stylesheet" href="style1.css">
+        <link rel="stylesheet" href="style2.css">
+        <link rel="stylesheet" href="style3.css">
+        -->
+        <style> 
+        
+        body{
+    background-color: gray;        
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.img-slide{
+    width: 50%;
+    height: 50vh;
+    display: flex;
+}
+
+.img{
+    flex: 1;
+    height:100%;
+    transform: skew(5deg);
+    cursor: pointer;
+    margin: 0 2px;
+    transition: all 0.3s;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+.img1{
+    background-image: url(img1.jpg); 
+}
+
+.img2{
+    background-image: url(img2.jpg);
+}
+
+.img3{
+    background-image: url(img3.jpg);
+}
+
+.img4{
+    background-image: url(img4.jpg);
+}
+
+.img p{
+
+    position: absolute;
+    left: 0; bottom:0;
+    padding: 10px;
+    background-color: rgba(0,0,0,0.6);
+    transform:rotate(-90deg);
+    transition: all 0.3s;
+    transform-origin: 0% 0%;
+    color: #fff; 
+    text-transform: uppercase;
+    white-space: nowrap;
+
+}
+
+.img-slide:hover .img{
+    transform:skew(0);
+}
+
+.img:hover{
+    flex:5;
+}
+
+.img:hover p{
+    background-color: transparent;
+    border: 2px solid #fff;
+    color: #fff;
+    transform: rotate(0deg);
+}
+
+        
+        </style>
+    </head>
+    <body>
+       
+        <div class="img-slide">
+            <div class="img img1">
+                <p>IMAGEM 1</p>
+            </div>
+            <div class="img img2">
+                <p>IMAGEM 2</p> 
+            </div>
+            <div class="img img3">
+                <p>IMAGEM 3</p> 
+            </div>
+            <div class="img img4">
+                <p>IMAGEM 4</p>
+            </div>
+        </div>
+
+    </body>
+    
+    </html>
