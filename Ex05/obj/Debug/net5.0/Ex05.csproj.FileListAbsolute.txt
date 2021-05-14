@@ -1,0 +1,16 @@
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\obj\Debug\net5.0\Ex05.csprojAssemblyReference.cache
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\obj\Debug\net5.0\Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\obj\Debug\net5.0\Ex05.AssemblyInfoInputs.cache
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\obj\Debug\net5.0\Ex05.AssemblyInfo.cs
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\obj\Debug\net5.0\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\bin\Debug\net5.0\Ex05.exe
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\bin\Debug\net5.0\Ex05.deps.json
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\bin\Debug\net5.0\Ex05.runtimeconfig.json
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\bin\Debug\net5.0\Ex05.runtimeconfig.dev.json
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\bin\Debug\net5.0\Ex05.dll
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\bin\Debug\net5.0\ref\Ex05.dll
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\bin\Debug\net5.0\Ex05.pdb
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\obj\Debug\net5.0\Ex05.dll
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\obj\Debug\net5.0\ref\Ex05.dll
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\obj\Debug\net5.0\Ex05.pdb
+C:\Users\artes\Desktop\tec 46\uc9\Ex05\obj\Debug\net5.0\Ex05.genruntimeconfig.cache
